@@ -46,7 +46,6 @@ I love crafting clean, modern, responsive web applications using the latest tech
 
 ## 📊 GitHub Statistics
 
-<!-- FIXED stats using reliable hologram API -->
 <p align="center">
   <img src="https://github-readme-stats-hologram.vercel.app/api?username=xteeque&theme=react&hide_border=true&show_icons=true" height="180" />
   <img src="https://github-readme-stats-hologram.vercel.app/api/top-langs/?username=xteeque&layout=compact&theme=react&hide_border=true" height="180" />
