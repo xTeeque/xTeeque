@@ -1,8 +1,8 @@
 <!-- Dynamic Light/Dark Background -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-light.png">
-  <img alt="Asaf Arusi Banner" src="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xteeque/xteeque/main/assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xteeque/xteeque/main/assets/header-light.png">
+  <img alt="Asaf Arusi Banner" src="https://raw.githubusercontent.com/xteeque/xteeque/main/assets/header-light.png">
 </picture>
 
 <!-- Odin Project Badge -->
@@ -48,12 +48,12 @@ I love crafting clean, modern, responsive web applications using the latest tech
 
 <!-- FIXED stats using reliable hologram API -->
 <p align="center">
-  <img src="https://github-readme-stats-hologram.vercel.app/api?username=asafarusi&theme=react&hide_border=true&show_icons=true" height="180" />
-  <img src="https://github-readme-stats-hologram.vercel.app/api/top-langs/?username=asafarusi&layout=compact&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-hologram.vercel.app/api?username=xteeque&theme=react&hide_border=true&show_icons=true" height="180" />
+  <img src="https://github-readme-stats-hologram.vercel.app/api/top-langs/?username=xteeque&layout=compact&theme=react&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asafarusi&theme=react&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=xteeque&theme=react&hide_border=true" height="180" />
 </p>
 
 ---
@@ -75,5 +75,5 @@ I love crafting clean, modern, responsive web applications using the latest tech
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asafarusi&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=xteeque&color=blueviolet" />
 </p>
