@@ -1,61 +1,69 @@
-<!-- Banner -->
+<!-- Dynamic Light/Dark Background -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-light.png">
+  <img alt="Asaf Arusi Banner" src="https://raw.githubusercontent.com/asafarusi/asafarusi/main/assets/header-light.png">
+</picture>
+
+<!-- Odin Project Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Asaf+Arusi!;Full+Stack+Developer+in+the+making.;Final-year+CS+student.;Building+cool+things+with+code." />
+  <img src="https://img.shields.io/badge/The%20Odin%20Project-Full%20Stack%20Path-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+<!-- Typing effect headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4F8CC9&center=true&vCenter=true&width=650&lines=Hi+I'm+Asaf+Arusi!;Full+Stack+Developer+in+Progress;Final+Year+Computer+Science+Student;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-👋 I'm **Asaf Arusi**, a final-year **Computer Science student** and a passionate **Full Stack Developer** on the *The Odin Project* journey.
+Hi! I'm **Asaf Arusi**, a final-year **Computer Science student**, currently mastering full-stack development through **The Odin Project**.
 
-I love building clean, functional, modern web applications and constantly improving my skills by learning, practicing, and creating real projects.
+I love crafting clean, modern, responsive web applications using the latest technologies, while constantly learning and building real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,cpp,c,python,java,sql" />
 </p>
 
-### 🌐 Frontend
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
 </p>
 
-### 🔧 Backend & Databases
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,sqlite" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
+<!-- FIXED stats using reliable hologram API -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asafarusi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=asafarusi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-hologram.vercel.app/api?username=asafarusi&theme=react&hide_border=true&show_icons=true" height="180" />
+  <img src="https://github-readme-stats-hologram.vercel.app/api/top-langs/?username=asafarusi&layout=compact&theme=react&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafarusi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=asafarusi&theme=react&hide_border=true" height="180" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📚 Completing **The Odin Project** full-stack path  
-- 🔨 Building practical web apps in JavaScript, Node, and React  
-- 🎓 Wrapping up my final year of **Computer Science degree**  
-- 🚀 Preparing for my first full-time dev role  
+- Advancing full-stack mastery via **The Odin Project**
+- Building practical React + Node applications  
+- Completing my **final-year CS studies**
+- Preparing for my first **full-time developer role**
 
 ---
 
