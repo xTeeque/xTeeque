@@ -148,3 +148,13 @@ const asaf = {
 ⭐ **From [xteeque](https://github.com/xteeque)** - Feel free to star my repos if you find them interesting!
 
 </div>
+
+---
+
+<div align="center">
+
+### 📸 Credits
+
+Profile avatar designed by [catalyststuff / Freepik](http://www.freepik.com)
+
+</div>
